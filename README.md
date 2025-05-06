@@ -18,3 +18,4 @@ Execute the assembler with the assembly file as input.
 The assembler will generate:
 Intermediate File: Contains the symbol table and intermediate results.
 Object Program: Displays the machine code in SIC/XE format.
+
