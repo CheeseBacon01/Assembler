@@ -14,7 +14,7 @@ Execute the assembler with the assembly file as input.
 
 `./assembler program.asm`
 
-###### 4.Output
+### 4.Output
 The assembler will generate:
 Intermediate File: Contains the symbol table and intermediate results.
 Object Program: Displays the machine code in SIC/XE format.
